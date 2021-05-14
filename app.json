@@ -1,0 +1,12 @@
+{
+  "name": "FernsNPetals",
+  "displayName": "FernsNPetals",
+  "expo": {
+    "name": "FernsNPetals",
+    "slug": "FernsNPetals",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
